@@ -1,2 +1,2 @@
-# laboratorul9.github.io
+# laboratorul8.github.io
 Pagina web-Informatica aplicata
